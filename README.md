@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @csullivan17
+- 👀 I’m interested in coding as a fun hobby!
+- 🌱 I’m currently learning HTML and CSS
+- 📫 How to reach me -> c.sullivan17mg@gmail.com
